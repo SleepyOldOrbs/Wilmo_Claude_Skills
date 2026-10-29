@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "wilmo-skills",
+  "description": "Wilmo's personal marketplace: points at third-party skill repos that aren't packaged as installable plugins.",
+  "owner": {
+    "name": "SleepyOldOrbs"
+  },
+  "plugins": [
+    {
+      "name": "taste-skill",
+      "description": "tasteskill v2 (leonxlnx): art direction for websites, product pages, dashboards and app screens.",
+      "source": {
+        "source": "github",
+        "repo": "leonxlnx/taste-skill"
+      },
+      "strict": false,
+      "skills": ["./skills/taste-skill"],
+      "homepage": "https://github.com/Leonxlnx/taste-skill",
+      "license": "MIT",
+      "category": "design"
+    }
+  ]
+}
