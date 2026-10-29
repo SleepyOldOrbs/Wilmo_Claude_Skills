@@ -27,3 +27,13 @@ Append an entry to `plugins` in `.claude-plugin/marketplace.json`:
 | Plugin | Upstream |
 |---|---|
 | taste-skill | [leonxlnx/taste-skill](https://github.com/leonxlnx/taste-skill) |
+| emil-kowalski-skills | [emilkowalski/skill](https://github.com/emilkowalski/skill) |
+| canvas-ui | [riz007/canvas-ui](https://github.com/riz007/canvas-ui) |
+
+## Add these directly instead (already packaged by their publishers)
+
+- `nextlevelbuilder/ui-ux-pro-max-skill`
+- `pbakaus/impeccable`
+- `Nutlope/hallmark`
+- `greensock/gsap-skills`
+- `oso95/scroll-world`

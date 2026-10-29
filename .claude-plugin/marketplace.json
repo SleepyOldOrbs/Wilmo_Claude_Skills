@@ -14,8 +14,39 @@
         "repo": "leonxlnx/taste-skill"
       },
       "strict": false,
-      "skills": ["./skills/taste-skill"],
+      "skills": [
+        "./skills/taste-skill"
+      ],
       "homepage": "https://github.com/Leonxlnx/taste-skill",
+      "license": "MIT",
+      "category": "design"
+    },
+    {
+      "name": "emil-kowalski-skills",
+      "description": "Emil Kowalski's design-engineering skills: animation craft, reviews, UI polish, Apple-style design, Swift and Expo.",
+      "source": {
+        "source": "github",
+        "repo": "emilkowalski/skill"
+      },
+      "strict": false,
+      "skills": [
+        "./skills/"
+      ],
+      "homepage": "https://github.com/emilkowalski/skill",
+      "category": "design"
+    },
+    {
+      "name": "canvas-ui",
+      "description": "Canvas UI (riz007): explore three design directions, compare them on a live canvas, tune tokens, refine against screenshots.",
+      "source": {
+        "source": "github",
+        "repo": "riz007/canvas-ui"
+      },
+      "strict": false,
+      "skills": [
+        "./"
+      ],
+      "homepage": "https://github.com/riz007/canvas-ui",
       "license": "MIT",
       "category": "design"
     }
