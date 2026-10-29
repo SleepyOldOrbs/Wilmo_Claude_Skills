@@ -33,7 +33,5 @@ Append an entry to `plugins` in `.claude-plugin/marketplace.json`:
 ## Add these directly instead (already packaged by their publishers)
 
 - `nextlevelbuilder/ui-ux-pro-max-skill`
-- `pbakaus/impeccable`
 - `Nutlope/hallmark`
 - `greensock/gsap-skills`
-- `oso95/scroll-world`
